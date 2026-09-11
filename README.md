@@ -4,7 +4,8 @@
 > 不是"几个形容词 + 几句口头禅"的浅层卡，而是一套可执行的**心理模型 + 行为引擎 + 剧情档案**。
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-![Gakuen Idolmaster](https://img.shields.io/badge/学園アイドルマスター-非公式同人設定-blue)
+![Gakuen Idolmaster](https://img.shields.io/badge/Gakuen%20iDOLM%40STER-unofficial%20fanwork-blue)
+![Language](https://img.shields.io/badge/lang-%E6%97%A5%E6%9C%AC%E8%AA%9E%20%2F%20%E4%B8%AD%E6%96%87-lightgrey)
 
 ---
 
@@ -21,7 +22,7 @@
 | **剧情档案** | 全阶段时间线（一~八）+ STEP1-4 共 37 话梗概 + 卡面/亲爱度剧情逐话 |
 | **可移植 Prompt** | 完整版 + 精炼版 System Prompt，任意 LLM 可直接用 |
 
-**总计约 9 万字**，全部为文字设定，不含任何游戏素材。
+**总计约 9 万字符**，全部为文字设定，不含任何游戏素材。
 
 ---
 
