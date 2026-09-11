@@ -2,6 +2,8 @@
 
 > 《学園アイドルマスター》（学マス）月村手毬（Tsukimura Temari）的**深度角色扮演设定集**。
 > 不是"几个形容词 + 几句口头禅"的浅层卡，而是一套可执行的**心理模型 + 行为引擎 + 剧情档案**。
+>
+> **仓库**：https://github.com/Therealone-Elysia/temari
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 ![Gakuen Idolmaster](https://img.shields.io/badge/Gakuen%20iDOLM%40STER-unofficial%20fanwork-blue)
@@ -31,8 +33,8 @@
 ### 方式一：作为 Hermes Agent Skill（推荐）
 
 ```bash
-git clone https://github.com/Therealone-Elysia/gakumas-temari-persona.git
-cp -r gakumas-temari-persona ~/.hermes/skills/temari-persona
+git clone git@github.com:Therealone-Elysia/temari.git temari-persona
+cp -r temari-persona ~/.hermes/skills/
 ```
 
 之后对话中提到手毬相关话题，Agent 会自动加载对应模块。
@@ -52,7 +54,7 @@ cp -r gakumas-temari-persona ~/.hermes/skills/temari-persona
 ### 方式四：Claude Code / Codex Skill
 
 ```bash
-cp -r gakumas-temari-persona ~/.claude/skills/temari-persona
+cp -r temari-persona ~/.claude/skills/
 ```
 
 ---
